@@ -29,4 +29,4 @@
 
  ## HASIL PROGRAM
 
-![img]
+![img](https://github.com/dindapuspitadewi/MENGUBAH-BILANGAN-PECAHAN-BIASA-KE-CAMPURAN/blob/master/pecahan%20biasa%20ke%20campuran%202.png?raw=true)
